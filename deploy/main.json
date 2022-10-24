@@ -43,11 +43,11 @@
     },
     "eventHubImage": {
       "type": "string",
-      "defaultValue": "veyalla/eh-test:0.0.2"
+      "defaultValue": "e4kpreview.azurecr.io/quickstart/eh-test:0.0.2"
     },
     "registry": {
       "type": "string",
-      "defaultValue": "docker.io"
+      "defaultValue": "e4kpreview.azurecr.io"
     },
     "registryUsername": {
       "type": "string",
